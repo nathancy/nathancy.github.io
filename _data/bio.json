@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://nathancy.github.io/images/profile_nathan_lam.jpg",
     "email": "nathancy@hawaii.edu",
-    "phone": "",
+    "phone": "808-206-1027",
     "website": "https://nathancy.github.io",
     "summary": "I am pursuing a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring 2018.",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "96815",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -53,6 +53,8 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML",
+        "CSS",
         "Python"
       ]
     },
@@ -64,6 +66,10 @@
         "gcc",
         "g++",
         "Git/GitHub",
+        "Ubuntu",
+        "Windows",
+        "Verilog",
+        "MATLAB",
         "Cygwin"
       ]
     }
@@ -127,6 +133,12 @@
       "date": "2014-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "A maximum of 80 scholarships of $10,000 annually ($5,000/semester) will be awarded by the Office of Admissions to high-achieving Hawaiʻi high school graduates."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2014-Present",
+      "awarder": "University of Hawaii College of Engineering",
+      "summary": "Awarded to students who earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade."
     },
     {
       "title": "1st Place Division B Oahu Mathematics League Champions",
