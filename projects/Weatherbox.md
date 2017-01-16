@@ -17,16 +17,15 @@ The objective of this project is to design and develop low-cost, accurate, and r
 
 By collecting solar irradiance, temperature, humidity, and pressure data of Hawaii's weather patterns, this weatherbox collects data which will be used to make Hawaii a more sustainable place to live in. One part of tackling this problem is creating a microgrid for UHM that is independent of Hawaii's grid. In order to accomplish this, we are looking to find optimal places on campus to install renewable energy sources, such as PV. To find these optimal places, this weatherbox was designed and built to collect reliable weather data that can be analyzed to forecast solar irradiation patterns.
 
-<img class="ui fluid image" src="../image/Weatherbox1.JPG">
+<img class="ui fluid image" src="../images/Weatherbox1.JPG">
 
 ### Requirements
-When designing the weatherbox, several factors had to be considered:
 * Weatherbox must collect solar irradiance, temperature, humidity, and pressure data.
 * Utilize solar energy and function for 2 days without sunlight.
 * Relay data wirelessly to a base node in organized format for the Gateway.
 * Housing must be secured, waterproof, and designed in such a way that the internals can be accessed with relative ease.
 
-<img class="ui fluid image" src="../image/Weatherbox2.JPG">
+<img class="ui fluid image" src="../images/Weatherbox2.JPG">
 
 ### Specifications/Parts
 * Microprocessor: [Atmel Atmega328P](http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet_complete.pdf)
