@@ -31,7 +31,9 @@ body {
 .ui.menu .hover.item {
     color: #18bc9c;
 }
-
-.ui.menu .hover {
+.ui.menu hover.item {
+    color: #18bc9c;
+}
+.ui.menu:hover.item {
     color: #18bc9c;
 }
