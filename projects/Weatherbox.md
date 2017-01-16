@@ -34,7 +34,7 @@ By collecting solar irradiance, temperature, humidity, and pressure data of Hawa
 * Solar Panel: [Adafruit 1525](https://www.adafruit.com/products/1525)
 * Battery: [Tenergy 18650 3.7V 6600mAh](https://cdn-shop.adafruit.com/product-files/353/C450_-_ICR18650_6600mAh_3.7V_20140729.pdf)
 * Soalr Irradiance Sensor: [Apogee SP-215](http://www.apogeeinstruments.com/content/SP-212_215manual.pdf)
-* Temperature Sensor: [Maxim DS18B20](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)
+* Temperature Sensor: [Maxim DS18B20](https://www.maximintegrated.com/en/products/analog/sensors-and-sensor-interface/DS18B20.html)
     * [Temperature Sensor Library](https://github.com/milesburton/Arduino-Temperature-Control-Library)
     * [One Wire Library for Temperature Sensor](https://github.com/ntruchsess/arduino-OneWire)
 * Humidity Sensor: [Sensirion SHT1x](https://cdn-shop.adafruit.com/datasheets/Sensirion_Humidity_SHT1x_Datasheet_V5.pdf)
