@@ -15,13 +15,14 @@ summary: Portable datalogger webserver that utilizes Python scripts to timestamp
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Datalogger1.JPG">
   <img class="ui image" src="../images/Datalogger2.JPG">
   <img class="ui image" src="../images/Datalogger3.JPG">
   <img class="ui image" src="../images/Datalogger4.JPG">
 </div>
 
 A portable datalogger webserver capable of running on any local connection built using the Django framework. Includes Python scripts to timestamp and log GPS data (or any data stream via UART) on a Raspberry Pi into .csv files. Implemented using fully customized HTML5/CSS web interface to create, edit, remove, or view logging data history. 
+
+<img class="ui fluid image" src="../images/Datalogger1.JPG">
 
 ### Datalogger Features
 * Ability to create new logger with specified and standard/default settings. Choose baudrate, desired .csv file name, data-stream update rate, port, and timeout.
