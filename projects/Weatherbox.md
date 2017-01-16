@@ -6,7 +6,7 @@ title: Smart Campus Energy Lab Weatherbox
 permalink: projects/SCEL-Weatherbox
 date: 2016
 labels:
-  - Atmega328P
+  - Microcontrollers
   - XBee
   - Sensors
   - C++
@@ -43,9 +43,9 @@ By collecting solar irradiance, temperature, humidity, and pressure data, this w
     * [Pressure Sensor Library](https://github.com/adafruit/Adafruit-BMP085-Library)
 
 ### Implementation
-The weatherbox firmware can be split into two main sections: sensor module and transmit module. The sensor module is composed of firmware that controls the solar irradiance, humidity, pressure, temperature, battery voltage, and solar panel voltage sensors. Similarly, the transmit module is composed of firmware that organizes the data obtained by the sensors into packets which is then sent to a server that decodes the data into a database. A microcontroller periodically polls the sensors as the data is transmitted through an XBee where packets are decoded and sent to the database where the data is organized. The weatherbox is housed in a 3D printed box that protects the internal components from the environment. 
+The weatherbox firmware can be split into two main sections: sensor module and transmit module. The sensor module is composed of firmware that controls the solar irradiance, humidity, pressure, temperature, battery voltage, and solar panel voltage sensors. Similarly, the transmit module is composed of firmware that organizes the data obtained by the sensors into packets which is then sent to a server that decodes the data into a database. A microcontroller periodically polls the sensors as the data is transmitted through an XBee and sent to the database where the data is organized. The weatherbox is housed in a 3D printed box that protects the internal components from the environment. 
 
-I lead the firmware development of the project, where my main focus was implementing the sensor and transmit modules between the weatherbox and the server. I used Arduino's serial monitor to verify correct sensor readings on the computer where it could then be processed and sent to the server.
+I lead the firmware development of the project, where my main focus was implementing the sensor and transmit modules between the weatherbox and the server. I used Arduino's serial monitor to verify correct sensor readings on the computer where it could then be processed and sent to the server. [XCTU](https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu) was also utilized to ensure that the data contained in the packets was in the correct schema. 
 
 ### Learning Outcomes
 This project provided a great opportunity to gain more experience with C++, microcontrollers, and embedded systems development.
