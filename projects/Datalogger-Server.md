@@ -1,29 +1,43 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: images/Datalogger1.JPG
+title: Datalogger Webserver 
+permalink: projects/Datalogger-Webserver
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Django 
+  - Python 
+  - HTML/CSS
+  - Raspberry Pi
+  - UART
+summary: Portable datalogger webserver that utilizes Python scripts to timestamp and log GPS data via UART on a Raspberry Pi 3 into .csv files. 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Datalogger1.JPG">
+  <img class="ui image" src="../images/Datalogger2.JPG">
+  <img class="ui image" src="../images/Datalogger3.JPG">
+  <img class="ui image" src="../images/Datalogger4.JPG">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+A portable datalogger webserver capable of running on any local connection built using the Django framework. Includes Python scripts to timestamp and log GPS data (or any data stream via UART) on a Raspberry Pi into .csv files. Implemented using fully customized HTML5/CSS web interface to create, edit, remove, or view logging data history. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+### Datalogger Features
+* Ability to create new logger with specified and standard/default settings. Choose baudrate, desired .csv file name, data stream update rate, port, and timeout.
+* Dropbox-like file hosting capability.
+* View, download, or delete individual files.
+* Current logging status with ability to stop logger.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+### Datalogger Development
+The application was built using the Django web framework. As the sole developer for this project, I first wrote background Python scripts that imitated input from the command line. The scripts parsed values and used default values if no user specific settings were given. These arguments included the baudrate, update rate, file name, dataport, and timeout settings. From there, the script utilized the user input and outputted data to a .csv file with timestamps.
+
+Afterwards, I setup the server by writing the backend for the datalogger. This included models, urls, forms, and views that controlled input settings, background processes, file management, and user interaction with various pages. In order to create the pages, I used Python for background processes, HTML/CSS for the interface, and some Javascript for page appearance. Git and GitHub was also used for version control to improve the efficiency of testing and developing code. Version control served as a safety net for implementing new features without the fear of breaking the entire server. After implementing the basic features, I added logging statuses, simple file hosting, and logging history.
+
+### Learning Outcomes
+Since this project was built completly by me, I learned a LOT which included both technical and design skills. Before starting this project, I had no exposure to Python, HTML, CSS, Javascript or any type of framework as I learned the syntax of each language on the fly. Afterwards, I became familar with these langauges and tools as implementing this project allowed me to learn additional programming languages. I also strengthended my skills in using Git and GitHub for version control. In terms of design skills, since this project was built completly from scratch, I learned how to implement features in small increments and learned how to effectively break down tasks into managable sections. 
+
+Source Code: [https://github.com/nathancy/Datalogger-Server](https://github.com/nathancy/Datalogger-Server)
 
 
 
