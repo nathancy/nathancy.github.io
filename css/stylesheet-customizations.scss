@@ -7,7 +7,7 @@
 
 // Customize the background color
 body {
-   //background-color: lightsteelblue;
+   background-color: #FAFAFA;
 }
 
 // Customize the menubar color
@@ -17,6 +17,9 @@ body {
 
 .ui.menu .item {
     color: white;
+}
+.ui.menu .active {
+    color: #18bc9c;
 }
 
 .ui.menu .active.item {
