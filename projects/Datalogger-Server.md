@@ -38,4 +38,5 @@ Afterwards, I setup the server by writing the backend for the datalogger. This i
 ### Learning Outcomes
 Since this project was built completely by me, I learned a LOT which included both technical and design skills. Before starting this project, I had no exposure to Python, HTML, CSS, JavaScript or any type of framework as I learned the syntax of each language on the fly. Afterwards, I became familiar with these languages and tools as implementing this project allowed me to learn additional programming languages. I also strengthened my skills in using Git and GitHub for version control. In terms of design skills, since this project was built completely from scratch, I learned how to implement features in small increments and learned how to effectively break down tasks into manageable sections. 
 
-Source Code: [https://github.com/nathancy/Datalogger-Server](https://github.com/nathancy/Datalogger-Server)
+Source Code: <a href="https://github.com/nathancy/Datalogger-Server"><i class="large github icon "></i>https://github.com/nathancy/Datalogger-Server</a>
+
