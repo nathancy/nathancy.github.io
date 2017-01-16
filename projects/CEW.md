@@ -27,3 +27,5 @@ Continious electrowetting automation is implemented using an [Arduino Mega](http
 In this project, I gained experience working with an Ardiuno microcontroller for its programming platform and serial interface, C++ for programming the functional abilities of the application, and the [CapacitiveSensor Library](https://github.com/PaulStoffregen/CapacitiveSensor) for handling the proximity sensing of capacitive displacement sensors.
  
 Source Code: <a href="https://github.com/nathancy/LM-CEW-Automation-"><i class="large github icon"></i>https://github.com/nathancy/LM-CEW-Automation-</a>
+
+
