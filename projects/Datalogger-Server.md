@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Datalogger1.JPG
+image: images/Datalogger5.JPG
 title: Datalogger Webserver 
 permalink: projects/Datalogger-Webserver
 date: 2016
