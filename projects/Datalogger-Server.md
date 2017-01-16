@@ -13,7 +13,6 @@ labels:
   - UART
 summary: Portable datalogger webserver that utilizes Python scripts to timestamp and log GPS data via UART on a Raspberry Pi 3 into .csv files. 
 ---
-
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Datalogger2.JPG">
   <img class="ui image" src="../images/Datalogger3.JPG">
