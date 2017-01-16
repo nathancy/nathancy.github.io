@@ -4,7 +4,7 @@ type: project
 image: images/CEW1.JPG
 title: Continuous Electrowetting Automation
 permalink: projects/cew
-date: Spring 2016
+date: 2016
 labels:
   - C++
   - Arduino
