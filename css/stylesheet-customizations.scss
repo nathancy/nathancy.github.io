@@ -28,13 +28,7 @@ body {
    color: #2c3e50;
 }
 
-.ui.menu .hover.item {
-    color: #18bc9c;
-}
-.ui.menu:hover.item {
-    color: #18bc9c;
-}
-.ui.menu hover.item {
-    color: #18bc9c;
+.ui.menu .active.item:hover {
+    color: white;
 }
 
