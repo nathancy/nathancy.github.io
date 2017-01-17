@@ -28,7 +28,7 @@ body {
    color: #2c3e50;
 }
 
-.ui.menu .active.item:hover {
+.ui.menu .active.item:hover, .ui.vertical.menu .active.item:hover {
     color: white;
 }
 
