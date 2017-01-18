@@ -31,6 +31,6 @@ body {
 //.ui.link.menu .item:hover, .ui.menu .dropdown.item:hover, .ui.menu .link.item:hover, .ui.menu a.item:hover {
 //   color: #18bc9c;
 //}
-.ui.menu a.item:hover {
-     color: #18bc9c;
+.ui.menu .active.item:hover, .ui.vertical.menu .active.item:hover {
+   color: white;
 }
