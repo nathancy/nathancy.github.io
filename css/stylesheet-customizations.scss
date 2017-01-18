@@ -19,6 +19,7 @@ body {
     color: white;
 }
 
+//Change menubar color of current page
 .ui.menu .active.item {
     color: #18bc9c;
 }
@@ -27,16 +28,13 @@ body {
 .icon-color {
    color: #2c3e50;
 }
-/*
-.ui.link.menu .item:hover, .ui.menu .dropdown.item:hover, .ui.menu .link.item:hover, .ui.menu a.item:hover {
-   color: #18bc9c;
-}
-.ui.menu .active.item:hover, .ui.vertical.menu .active.item:hover {
-   color: #18bc9c;
-}*/
+
+//Change hover menubar color of other pages except current page
 .ui.menu a.item:hover {
    color: #18bc9c;
 }
+
+//Change hover menubar color of current page when on current page
 .ui.menu .active.item:hover {
   color: #18bc9c;
 }
