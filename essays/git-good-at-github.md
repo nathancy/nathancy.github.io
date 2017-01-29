@@ -6,7 +6,7 @@ date: 2016-01-28
 labels:
   - Software Engineering
   - Learning
-  - JavaScript
+  - Version Control
 ---
 <img class="ui medium right floated rounded image" src="../images/github.jpg">
 
