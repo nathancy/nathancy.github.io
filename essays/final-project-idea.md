@@ -16,12 +16,14 @@ In the University of Hawaii at Manoa student body, activities such as Cram Jam a
 -	Admin home page
 -	Specific course page
 -	Browse study groups
+
 # Use case ideas
 -	New users can go straight to a login page, after logging in, the user is presented with his/her dashboard and homepage. From there the user can setup their profile and add courses and desired study groups.
 -	Admin pages would also have a login page with credentials, able to login to a special admin site, unique admin homepage, and be able to edit parts of the site.
 -	Normal users go to the dashboard after logging in and are able to search for clubs of interest.
 -	Team pages involving all the people interested in studying together for that class.
 -	Dashboard has calendar to let users see signed up study sessions.
+
 # Beyond the Basics
 -	Ability to create and propose pages, need to be confirmed by admin.
 -	Notifications and reminders for upcoming study sessions.
@@ -30,3 +32,5 @@ In the University of Hawaii at Manoa student body, activities such as Cram Jam a
 -	Private study groups not available to the public without invitation. 
 -	Users have flags and report features.
 -	Admins have ability to remove inappropriate groups.
+
+Proposed by Connor Slike and Nathan Lam
