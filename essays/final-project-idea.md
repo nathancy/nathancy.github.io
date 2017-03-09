@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 # Overview
-In the University of Hawaii at Manoa student body, activities such as Cram Jam and other student events are readily featured. But a community-driven application that focuses on academics which enables students to easily find study buddies to specific subjects has yet to be implemented. Thus to address this situation, a possible solution may be to create a hub where students may communicate and search for other classmates called Study Buddies. For this application, the audience is structured to all students on the campus, including professors and facility. 
+Within the University of Hawaii at Manoa student body, activities such as Cram Jam and other student events are readily featured. But a community-driven application that focuses on academics which enables students to easily find study buddies to specific subjects has yet to be implemented. Thus to address this situation, a possible solution may be to create a hub where students may communicate and search for other classmates called Study Buddies. For this application, the audience is structured to all students on the campus, including professors and facility. 
 # Mockup Page Ideas
 -	Public landing page (home page)
 -	Login page
@@ -31,6 +31,6 @@ In the University of Hawaii at Manoa student body, activities such as Cram Jam a
 -	Search ability for specific classes, sections, topics, and interests. Ability to search for specific study group names.
 -	Private study groups not available to the public without invitation. 
 -	Users have flags and report features.
--	Admins have ability to remove inappropriate groups.
+-	Admins have the ability to remove inappropriate groups.
 
 Proposed by Connor Slike and Nathan Lam
