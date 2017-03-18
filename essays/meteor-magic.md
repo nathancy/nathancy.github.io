@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-<img class="ui medium right floated rounded image" src="../images/meteor.jpg">
+<img class="ui medium small floated rounded image" src="../images/meteor.jpg">
 
 Application architectures serve as tools to enable streamlined, organized, and efficient platforms for developing web applications. One such framework is Meteor which is a modern, internet-based, client-server framework which allows developers to focus more on implementing features and designing user interfaces rather than worrying about the details involving pixel spacing, margins, and database initialization. Through this streamlined platform which allows speedy development through features such as “hot code push”, free server hosting, and organized database management, Meteor is one of the fastest ways to build JavaScript applications. 
 
