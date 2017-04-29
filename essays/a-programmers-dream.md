@@ -1,21 +1,18 @@
 ---
 layout: essay
 type: essay
-title: Privacy Breaches in Code
-date: 2017-04-28
+title: A Programmer’s Dream
+date: 2016-01-16
 labels:
   - Software Engineering
-  - Privacy
+  - Learning
+  - Goals
 ---
-<img class="ui medium right floated rounded image" src="../images/privacy.png">
-Engineering ethics is the set of rules and guidelines that engineers adhere to as a moral obligation to their profession and to the world. When ethics are not followed, disaster often occurs which not only includes large monetary costs and environmental repercussions, but may also result in the loss of human life. Due to the constantly changing nature of computer technology, it is difficult to assign a set of specific moral codes. Software engineering creates a set of ethical problems which include the theft of software involving the rights to products and the issue whether information on individuals stored in a computer constitutes an intolerable invasion of privacy. 
+<img class="ui medium right floated rounded image" src="../images/writers-block-Peanuts.jpg">
 
-In this modern society where virtually everything is encoded through code, ethical implications often arise through privacy breaches. Privacy can translate to unauthorized computer entry to steal secrets as this crime goes along with the idea of hacking. This activity deals with the ethical dilemma of who actually owns information and who has the rights to access that information. Therefore, a serious dilemma involving the amount of information gathered by computers puts people’s personal information in a vulnerable position as the issue of who owns the information once it is inside a computer is a grey area. Consequently, this dilemma is unclear as people have opposing viewpoints which further clouds the idea of privacy. Through computer technology, ethical issues are present but may be ambiguous due to the varying interpretations of privacy and ethics regarding computer software and information.
+In a sense, programmer’s block is similar to writer’s block where “A writer may run out of inspiration, or be distracted by other events”. In contrast to writer’s block, however, programmer’s block occurs when a developer or engineer has too many ideas and is distracted by attempting to design and implement all of the ideas into his/her design. The ability to create and manipulate one’s limitless imagination enables developers and engineers in this intriguing field to bring fantasy to life. Nowadays, developers have unrestricted access to more tools, methodologies, and techniques than in the past, as the open source community is a perfect example of this endless span of information. 
 
-For instance, a case study involving Google Street View which displays searchable aerial and street view photographs of neighborhoods, city blocks, stores, and even individual residences is a debatable feature that comes with evident privacy concerns. From a software engineering perspective, this is a unique and inspiring feature but in the eyes of residents, this tool may seem invasive to one’s privacy. Thus as a software engineer, it is essential to balance and find compromise although at times this boundary may be unclear. 
+The infinite amount of ideas that can be implemented and showcased to the world is what lured me into this lucrative world of text, brackets, and semicolons. Studying software engineering has opened my eye to the world around me and has heightened my curiosity of the endless possibilities of programming. One of the biggest differences between software development compared to other fields is the highly-iterable nature of the work. Tools and workflows have evolved to take advantage of this method of implementing new features. The capability to transform text into seemingly magical programs that enable a culture of knowledge, innovation, and collaboration among the community influenced me to study software engineering. With the ability to make an impact through ideas, the possibility to educate others about technology, and most importantly, the capability to build technology for good causes, I hope one day I’ll be able to use my position and knowledge to make a positive impact in the community and in the world. 
 
-All considered, by understanding the impact of engineering solutions in a global context, software engineers will be aware that their solutions will have both positive and negative consequences on society. Thus through adaptation and open-mindedness to changing ideas in this technological world, we must acknowledge and evaluate the impact of software engineering as it pertains to privacy issues. 
-
-
-
-
+As I move forward, my long-term goal is to expand my knowledge and obtain hands-on-experience in the areas of embedded programming and artificial intelligence. I believe this growing subsection of software engineering has limitless possibility to positively impact the lives of others. With new innovative technology becoming increasingly relevant and even a necessity in our everyday lives, I hope to build software to improve the lives of everyday people. However, that is the dream in the future. As of now, perhaps there are now too many ideas, and too many projects to implement. As opposed to not knowing what to write in writer’s block, a dilemma occurs in programming where there are too many projects to pursue and not enough focus. Although there may be too many ideas, I will begin with one idea at a time. As always, just build it.
+ 
