@@ -12,14 +12,6 @@ labels:
   - Software Engineering
 summary: Developed an application for sharing shared interests and activities with the right people.
 ---
-<!--
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/CEW1.JPG">
-  <img class="ui image" src="../images/CEW5.JPG">
-  <img class="ui image" src="../images/CEW2.JPG">
-  <img class="ui image" src="../images/CEW4.JPG">
-</div>
--->
 
 ### Project Overview
 Working in a team of three University of Hawaii computer engineering undergraduate students, we built a web application, Adventure Portal. [Click here](https://adventure-portal.github.io/) to see the team’s project page. 
