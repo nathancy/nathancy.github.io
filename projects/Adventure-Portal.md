@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CEW1.JPG
+image: images/adventure-portal.png
 title: Adventure Portal
 permalink: projects/adventure-portal
 date: 2017
@@ -34,5 +34,6 @@ Below is a screen capture of the project home page which has a list of featured 
 The application was built using the web application framework, Meteor. I was primarly responsible for designing the layout of pages which included UI, routing, user authentication, and authorization. In order to create these pages, the team used HTML, Semantic UI, JavaScript and some CSS. Our team used Git and Github for version control to improve the efficiency with which we were able to test and develop code. I designed the layout for the landing page, dashboard page, browse adventures page, user profile page, 404 lost page, and not-authorized page. On these pages, I also implemented the functionality to filter and display data from various input fields to our database.
 ### Learning Outcomes
 From this project, I learned both technical and project management skills. On the technical side, I became familiar with the Meteor application framework and strengthened my understanding of HTML and JavaScript. I also strengthened my skills involving Git and GitHub for version control. In terms of project management, I learned how to effectively break down tasks within a project to smaller incremental steps which we referred to as issues. In addition, I learned to create, assign, and manage issues for project milestones through Github. 
+
 Source: <a href="https://github.com/adventure-portal/adventure-portal"><i class="large github icon"></i>adventure-portal </a>
 
