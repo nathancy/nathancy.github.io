@@ -12,12 +12,14 @@ labels:
   - Software Engineering
 summary: Developed an application for sharing shared interests and activities with the right people.
 ---
+<!--
 <div class="ui small rounded images">
   <img class="ui image" src="../images/CEW1.JPG">
   <img class="ui image" src="../images/CEW5.JPG">
   <img class="ui image" src="../images/CEW2.JPG">
   <img class="ui image" src="../images/CEW4.JPG">
 </div>
+-->
 
 ### Project Overview
 Working in a team of three University of Hawaii computer engineering undergraduate students, we built a web application, Adventure Portal. [Click here](https://adventure-portal.github.io/) to see the team’s project page. 
@@ -29,7 +31,8 @@ Some of the use cases include:
 <li>Searching for adventures based on interests</li>
 </ul>
 Below is a screen capture of the project home page which has a list of featured adventures:
-<img class="ui centered image" src="../images/CEW2.JPG">
+
+<img class="ui centered image" src="../images/adventure-final.PNG">
 
 ### Meteor Application Development
 The application was built using the web application framework, Meteor. I was primarly responsible for designing the layout of pages which included UI, routing, user authentication, and authorization. In order to create these pages, the team used HTML, Semantic UI, JavaScript and some CSS. Our team used Git and Github for version control to improve the efficiency with which we were able to test and develop code. I designed the layout for the landing page, dashboard page, browse adventures page, user profile page, 404 lost page, and not-authorized page. On these pages, I also implemented the functionality to filter and display data from various input fields to our database.
