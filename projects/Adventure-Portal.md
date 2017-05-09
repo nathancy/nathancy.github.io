@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/adventure-portal.png
+image: images/adventure.png
 title: Adventure Portal
 permalink: projects/adventure-portal
 date: 2017
@@ -23,7 +23,7 @@ Some of the use cases include:
 </ul>
 Below is a screen capture of the project home page that has a list of featured adventures:
 
-<img class="ui centered image" src="../images/adventure.png">
+<img class="ui centered image" src="../images/adventure-final.PNG">
 
 ### Meteor Application Development
 The application was built using the web application framework, Meteor. I was primarily responsible for designing the layout of pages which included UI, routing, user authentication, and authorization. In order to create these pages, the team used HTML, Semantic UI, JavaScript, and some CSS. Our team used Git and GitHub for version control to improve the efficiency with which we were able to test and develop code. I designed the layout for the landing page, dashboard page, browse adventures page, user profile page, 404 lost page, and not-authorized page. On these pages, I also implemented the functionality to filter and display data from various input fields to our database.
