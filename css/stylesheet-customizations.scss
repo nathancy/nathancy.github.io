@@ -38,3 +38,8 @@ body {
 .ui.menu .active.item:hover {
   color: #18bc9c;
 }
+
+//Change background color of cards to white
+.ui.card>.image>img, .ui.cards>.card>.image>img {
+   background-color: #fff;
+}
