@@ -14,9 +14,7 @@ summary: Developed an application for sharing shared interests and activities wi
 ---
 
 ### Project Overview
-Working in a team of three University of Hawaii computer engineering undergraduate students, we built a web application, Adventure Portal. [Click here](https://adventure-portal.github.io/) to see the team’s project page. 
-
-The problem that the app seeks to solve is that it is often difficult for individuals to organize and find adventures with other people who share the same interests. The idea behind Adventure Portal was to create an application that helps individuals explore new activities by having a platform to easily organize events with similar minded people. It allows individuals who have an interesting activity to share, explore, and connect with people who share the same passion based on shared interests. 
+Working in a team of three University of Hawaii computer engineering undergraduate students, we built a web application, Adventure Portal. [Click here](https://adventure-portal.github.io/) to see the team’s project page. The problem that the app seeks to solve is that it is often difficult for individuals to organize and find adventures with other people who share the same interests. The idea behind Adventure Portal was to create an application that helps individuals explore new activities by having a platform to easily organize events with similar minded people. It allows individuals who have an interesting activity to share, explore, and connect with people who share the same passion based on shared interests. 
 Some of the use cases include:
 <ul>
 <li>Creating profiles that pin favorited activities</li>
