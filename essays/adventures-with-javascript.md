@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript Reflection
+title: Adventures with JavaScript
 date: 2016-01-17
 labels:
   - Software Engineering
