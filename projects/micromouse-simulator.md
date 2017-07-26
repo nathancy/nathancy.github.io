@@ -5,6 +5,7 @@ image: images/micromouse1.jpg
 title: Micromouse Simulator 
 permalink: projects/micromouse-simulator
 date: 2017
+youtubeId: Nb8YTFCTzjM
 labels:
   - C 
   - Simulator 
@@ -13,6 +14,8 @@ summary: Developed a 16x16 Micromouse simulator using a predefined maze display 
 ---
 ### Project Overview
 Micromouse is a small autonomous robot whose task is to navigate a 16x16 maze and compete with other mice to find the center of the maze in the fastest time. The purpose of this project was to build a software tool to allow development of navigation algorithms. The simulator consists of a 16x16 grid of "cells" with walls that span from one post to another in which mice cannot escape the playing field. 
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ### Rules
 The mouse starts in the "start cell", in the lower left corner facing North. The mouse's goal is the "center square" which consists of four cells at the center of the maze. There is only one entrance to the center square. The mouse knows nothing else about the configuration of the maze when it starts other than its location and the location of the center square. Although in a real competition, the fastest run from the start cell to the center square is the mouse's "run time", this simulator will not be concerned about time, only navigation through the maze, finding a path to the center, and counting the cells and unique cells visited. 
